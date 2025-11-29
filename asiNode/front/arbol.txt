@@ -1,0 +1,22 @@
+ El volumen de la unidad C es KINGSTON SV300S37A480G 480GB
+ El n£mero de serie del volumen es: 4CFC-42C8
+
+ Directorio de C:\Users\Pito\Desktop\asiNode\front
+
+29/11/2025  12:51    <DIR>          .
+28/10/2025  16:32    <DIR>          ..
+28/10/2025  16:33                40 .browserslistrc
+28/10/2025  16:33               364 .eslintrc.js
+28/10/2025  16:33               231 .gitignore
+29/11/2025  12:51               163 arbol.txt
+28/10/2025  16:33                73 babel.config.js
+28/10/2025  16:33               279 jsconfig.json
+28/10/2025  18:37    <DIR>          node_modules
+28/10/2025  18:37           450.763 package-lock.json
+28/10/2025  18:37               688 package.json
+28/10/2025  16:33    <DIR>          public
+28/10/2025  16:33               317 README.md
+28/10/2025  16:33    <DIR>          src
+28/10/2025  16:55               152 vue.config.js
+              10 archivos        453.070 bytes
+               5 dirs  181.094.719.488 bytes libres
